@@ -1,5 +1,5 @@
-# Studio Ghibli
-## Projeto Imersão Dev com Google Gemini - Alura
+<h1 align="center">Studio Ghibli</h1>
+<h2>Projeto Imersão Dev com Google Gemini - Alura</h2>
 
 Projeto criado durante a Imersão Dev com Gemini, da Alura, para os fãs do estúdio de animação japonês: **Studio Ghibli**.
 
