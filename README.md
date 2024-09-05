@@ -9,6 +9,9 @@ O **Studio Ghibli** é um dos estúdios de animação mais renomados e queridos 
 ### RELEVÂNCIA ✨
 Um site dedicado ao Studio Ghibli é mais do que apenas um espaço para fãs. É um portal para um universo de sonhos, aventuras e reflexões que marcaram gerações. Ao reunir informações, análises e curiosidades sobre os filmes do estúdio, esse site contribui para a preservação e divulgação da rica cultura japonesa presente nas obras de Hayao Miyazaki e seus colaboradores. Além disso, ao explorar os profundos ensinamentos sobre amizade, coragem e o respeito à natureza, presentes em cada animação, o site se torna um espaço de inspiração e aprendizado para todos. No Brasil, onde existe uma legião de fãs apaixonados pelo Studio Ghibli, um site dedicado a essa temática seria um verdadeiro refúgio, proporcionando um lugar onde os admiradores podem se conectar, compartilhar suas experiências e aprofundar seu conhecimento sobre esse universo mágico.
 
+### FUNCIONALIDADES 🔨
+
+
 ### TECNOLOGIAS 🖥️
 * HTML
 * CSS
