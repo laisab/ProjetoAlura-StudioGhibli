@@ -1,0 +1,190 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.fundo-transparente{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('img/Studio-Ghibli-Logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    opacity: 0.7;
+    z-index: -1;
+}
+
+h1{
+    font-size: 2.8rem;
+    text-align: center;
+    letter-spacing: 0.13rem;
+    color: #1C1C1C;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 3rem;
+    grid-template-columns: auto auto;
+    grid-gap: 1rem;
+}
+
+section input{
+    width: 30rem;
+    border: 1px solid #000000;
+    padding: 1rem;
+    border-radius: 1.5rem;
+    margin-top: 1rem;
+    color: #363636;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+section button{
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 1.5rem;
+    background-color: #363636;
+    color: #F8F8FF;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4169E1; 
+    color: #000000;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    margin-top: 1rem;
+}
+
+.botoes button:first-child {
+    margin-right: 1rem; 
+}
+
+.resultados-pesquisa{
+    width: 80rem;
+    height: 280px;
+    overflow-y: auto;
+    margin-top: 1rem;
+    padding: 1rem;
+    border-radius: 0.6rem;
+    text-align: justify;
+}
+
+.item-resultado{
+    background: #ADD8E6;
+    border-radius: 0.6rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px;
+    height: 500vh;
+}
+
+.item-resultado h2{
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.10rem;
+    color: #363636;
+}
+
+.item-resultado h3{
+    font-size: 1rem;
+    text-align: center;
+    color: #363636;
+}
+
+.item-resultado a{
+    text-decoration: none;
+    color: #00008B;
+}
+
+.item-resultado a:hover{
+    text-decoration: underline;
+}
+
+.item-resultado img{
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.descricao-meta{
+    color: #4F4D4F;
+    margin: 0.5rem 0;
+}
+
+footer{
+    color: #1C1C1C;
+    text-align: center;
+    padding: 0;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    font-size: 1rem;
+}
+
+@media (max-width: 768px){
+    h1{
+        font-size: 2rem;
+        letter-spacing: 0.2rem;
+    }
+
+    section input{
+        width: 25rem;
+        padding: 0.8rem;
+    }
+
+    .resultados-pesquisa{
+        width: 40rem;
+        height: 40vh;
+    }
+
+    .item-resultado h2{
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 480px){
+    h1{
+        font-size: 1.8rem;
+        letter-spacing: 0.1rem;
+    }
+
+    section input{
+        width: 17rem;
+    }
+
+    section button{
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    .resultados-pesquisa{
+        width: 90%;
+        height: 50vh;
+    }
+
+    .item-resultado h2{
+        font-size: 1.1rem;
+    }
+
+    footer {
+        font-size: 0.9rem;
+    }
+}
