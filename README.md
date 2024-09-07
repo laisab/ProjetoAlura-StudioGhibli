@@ -2,7 +2,7 @@
 <h2>Projeto Imersão Dev com Google Gemini - Alura</h2>
 
 Projeto criado durante a Imersão Dev com Gemini, da Alura, para os fãs do estúdio de animação japonês: **Studio Ghibli**.
-https://studioghiblialura.vercel.app/
+<p>https://studioghiblialura.vercel.app/</p>
 
 ### SOBRE 🎦
 O **Studio Ghibli** é um dos estúdios de animação mais renomados e queridos do mundo, conhecido por seus filmes encantadores e cheios de significado. Fundado no Japão, o Ghibli nos transporta para universos fantásticos, onde a natureza, a amizade e a busca por si mesmo são temas recorrentes. Com filmes como "**A Viagem de Chihiro**", "**Meu Vizinho Totoro**" e "**Princesa Mononoke**", o estúdio conquistou o coração de pessoas de todas as idades, com suas histórias que tocam a alma e visuais deslumbrantes. Os filmes do Ghibli são mais do que simples animações, são obras de arte que nos convidam a refletir sobre a vida e a apreciar a beleza do mundo ao nosso redor.
